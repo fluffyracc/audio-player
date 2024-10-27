@@ -1,0 +1,13 @@
+*.png
+.idea
+.vscode
+audio-player
+*.exe
+port
+encryption-key
+cache
+
+client.crt
+client.key
+server.crt
+server.key
